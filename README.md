@@ -12,7 +12,7 @@ Browser extension that hides messages that start with "!" on Twitch.
 
 ## How to Use
 
-Click on the exclamation mark icon near the gear icon at the bottom of the chat. It will toggle comments that start with "!".
+Click on the exclamation mark icon near the gear icon at the bottom of the chat. It will toggle comments that start with "!". You can still see hidden messages in the browser console, they are logged there.
 
 ## How to Install
 
