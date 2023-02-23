@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Twitch Hide Messages",
     "description": "Browser extension that hides messages that start with ! on Twitch.",
-    "version": "0.1",
+    "version": "0.2",
     "icons": {
         "16": "images/ico16.png",
         "19": "images/ico19.png",
@@ -16,7 +16,7 @@
                 "*://www.twitch.tv/*"
             ],
             "js": [
-                "content_script.js"
+                "twitch-hide-messages.js"
             ]
         }
     ]
