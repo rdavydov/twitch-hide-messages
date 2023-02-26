@@ -19,7 +19,7 @@ Click on the exclamation mark icon near the gear icon at the bottom of the chat.
 | Browser |                          |
 |---------|--------------------------|
 | Edge    | [Link](TODO) |
-| Firefox | [Link](TODO) |
+| Firefox | [Link](https://addons.mozilla.org/en-US/firefox/addon/twitch-hide-messages/) |
 
 OR (Chromium-based Browsers)
 
