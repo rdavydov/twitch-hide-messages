@@ -18,12 +18,12 @@ Click on the exclamation mark icon near the gear icon at the bottom of the chat.
 
 | Browser |                          |
 |---------|--------------------------|
-| Edge    | [Link](TODO) |
+| Edge    | <s>[Link](TODO)</s> |
 | Firefox | [Link](https://addons.mozilla.org/en-US/firefox/addon/twitch-hide-messages/) |
 
-OR (Chromium-based Browsers)
+OR (Chromium-based browsers)
 
-1. Clone This Repo
-2. Go to Your Browser's extensions [chrome://extensions](chrome://extensions)
-3. Enable Developer Mode
-4. Click "Load unpacked" (extension) and Select This Cloned Repo's folder
+1. Clone this repo
+2. Go to your browser's extensions `chrome://extensions`
+3. Enable Developer mode
+4. Click "Load unpacked" (extension) and select this cloned repo's folder
